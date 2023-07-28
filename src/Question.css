@@ -1,0 +1,24 @@
+.main-question{
+    margin-left: 9%;
+    margin-top: 2%;
+}
+.clickable{
+    margin-left: 40em;
+    cursor: pointer;
+    margin-top: -6%;
+}
+.answers{
+    margin-left: 9%;
+    width: 90%;
+    border-bottom: 1px solid #D6D6D6;
+}
+.main-heading{
+    margin-top: 4%;
+    margin-left: -1%;
+}
+@media screen and (max-width: 480px){
+    .main-heading{
+        margin-left: 15%;
+    }
+
+}

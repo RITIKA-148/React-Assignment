@@ -1,0 +1,302 @@
+.tickete{
+    margin-left: 3%;
+   margin-top: 2%;
+  font-weight: 700;
+  }
+  .confirm{
+    margin-top: 4rem;
+    margin-left: 21px;
+    color: #616161;
+    font-size: 45px;
+    font-weight: 600;
+  }
+  
+  .enter-detail{
+margin-top: 4rem;
+
+  }
+  .enter{
+    margin-left: 41px;
+    font-size: 26px;
+font-weight: 600;
+color: #6c6b6b;
+
+  }
+  .next-enter{
+    word-spacing: 2px;
+    padding-left: 4%;
+            color: #6c6b6b;
+
+  }
+  #name{
+    padding: 16px;
+    border-radius: 15px;
+  }
+  #text-form{
+    margin-left: 4%;
+    margin-top: 14px;
+
+  }
+  #names{
+    margin-top: 4%;
+    padding: 16px;
+    border-radius: 15px;
+
+
+}
+#mail{
+    margin-left: 13%;
+    margin-top: 7%;
+    padding: 16px;
+    border-radius: 15px;
+}
+.Additional{
+    margin-left: 31px;
+       font-size: 26px;
+    font-weight: 600;
+    color:#595959;
+    margin-top: 4%;
+
+}
+.Additional-information{
+    margin-left: 3%;
+    word-spacing: 3px;
+}
+.add{
+    margin-left: 2%;
+}
+#custom{
+    /* margin-left: 3%; */
+    margin-left: 9%;
+    margin-top: 7%;
+    padding: 16px;
+    border-radius: 15px;
+}
+.credit-card-logo{
+    margin-left: 3%;
+}
+.debit{
+    margin-left: 2%;
+}
+.select-your-payment{
+    margin-left: 2%;
+}
+.horizontal{
+    margin-top: 2%;
+margin-left: 4%;
+}
+.klarna-img{
+    margin-left: -1%;
+}
+.klarna{
+    margin-left: 1%;
+}
+.last-horizontal{
+    margin-left: -1%;
+}
+.Recive{
+background-color: #F5F5F5;
+padding: 17px;
+border-radius: 15px;
+margin-left: -1%;
+margin-top: 3%;
+}
+.with-pay{
+    margin-top: 2%;
+
+}
+#button{
+    background-color: black;
+color: white;
+height: 17%;
+width: 21%;
+border-radius: 15px;
+}
+.images{
+    margin-left: 13px;
+}
+.line{
+    margin-left: 5%;
+margin-right: 8%;
+}
+.Addi{
+    margin-left: 75px;    font-size: 22px;
+font-weight: 600;
+margin-top: 2%;
+
+}
+.freq-ask{
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.para{
+    margin-left: 8%;
+width: 61%;
+}
+.drop-button{
+    margin-left: 70%;
+margin-top: -1%;
+}
+#cards{
+    border-radius: 15px;
+    width: 18rem;
+    margin-left: 20%;
+}
+#cards-side{
+    margin-left: -4%;
+}
+#card-subtitle{
+    margin-top: 16%;
+}
+.tick{
+    margin-top: 5%;
+}
+.card-text{
+    width: 77%;
+}
+.footer{
+    background-color: #0A0A0A;
+    color: white;
+    margin-top: 3rem;
+padding: 5%;
+margin-left: -25px;
+margin-right: -24px;
+
+}
+.tic{
+    font-size: 30px;
+}
+.last-vertical-line{
+    margin-top: 4%;
+}
+.point{
+    margin-left: 22px;
+}
+.privacy{
+    margin-left: 8px;
+}
+.Amsterdam{
+    margin-top: 5%;
+width: 69%;
+}
+.variant{
+    margin-left: 1%;
+}
+.Date{
+    margin-left: 2%;
+
+}
+.time{
+    margin-left: 2%;
+}
+.Ticket-overview{
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 2%;
+  
+
+}
+.price{
+    margin-left: 16rem;
+}
+.prices{
+    margin-left: 61%;
+}
+.discount-prices{
+    margin-left: 42%;
+}
+.discount-applied{
+    color: #099161;
+
+}
+.Total-discount-prices{
+    margin-left: 59%;
+}
+.Total{
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 2%;
+    margin-left: -3%;
+  
+}
+.you-will-pay{
+    text-decoration: underline;
+}
+.Free-cancel{
+    margin-top: 10%;
+background-color: #F5F5F5;
+padding: 3%;
+border-radius: 16px;
+margin-right: 51px;
+}
+.Free{
+    margin-top: 1%;
+margin-left: 1%;
+font-size: 17px;
+font-weight: 600;
+}
+.cancel{
+    margin-top: -13px;
+    margin-left: 6px;
+    font-size: 13px;
+}
+#last-col{
+    border-left: 1px solid #D6D6D6 ;
+}
+.instagram{
+    margin-left: 55rem;
+}
+.facebook{
+    margin-left: 1%;
+}
+.Frequently{
+    margin-left: -2%;
+}
+.Totals{
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 2%;
+}
+@media screen and (max-width: 480px){
+#last-col{
+    margin-left: -17rem;
+    width: 170%;
+}
+.Amsterdam{
+
+}
+.enter-detail{
+
+}
+
+.enter{
+    margin-top: 291%;
+width: 102%;
+margin-left: 4%;
+}
+.next-enter{
+
+}
+
+.Additional{
+    width: 132%;
+margin-left: 1%;
+margin-top: 37px;
+}
+#button{
+    width: 98%;
+}
+.Addi{
+
+}
+.freq{
+    width: 153%;
+    margin-left: -21%;
+  }
+  #cards{
+
+    margin-top: 14rem;
+margin-left: -86%;
+  }
+
+}
